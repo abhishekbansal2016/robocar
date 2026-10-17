@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "ready": true,
+  "metadata": {
+    "url": "./models/model.json",
+    "bytes": 1342,
+    "sha256": "1eff9b2bac2c5c4e06c1afcd854cfdf4c1d073c98ee683f5f7a0652bbcb06e10"
+  },
+  "yolo": {
+    "url": "./models/model.onnx",
+    "bytes": 81910151,
+    "sha256": "ddab83cacecd8b2bdc243cbe251a141cb187b07b03b3c3715c421afd0bd963a7"
+  },
+  "voice": {
+    "url": "./models/voice.tar.gz",
+    "bytes": 37470203,
+    "sha256": "45e35b499cbd3da57b58006c6a4d6c73508d1e40f176f4e2ea83ac39fa1df16c"
+  },
+  "version": "192deb7b7d814ec5"
+}
